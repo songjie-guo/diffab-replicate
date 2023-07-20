@@ -19,7 +19,7 @@ Try it!
 | design_dock | codesign_multicdrs  |
 | design_dock | abopt_singlecdr     |
 | design_dock | fixbb               |
-| design_dock | strpred             |
+| design_dock | strpred             | over 1h
 
 ```bibtex
 @inproceedings{luo2022antigenspecific,
