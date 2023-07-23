@@ -16,7 +16,7 @@ Try it!
 | design_pdb | fixbb               | 45min
 | design_pdb | strpred             | 44min
 | design_dock | codesign_single     |
-| design_dock | codesign_multicdrs  |
+| design_dock | codesign_multicdrs  | 1h57min
 | design_dock | abopt_singlecdr     |
 | design_dock | fixbb               |
 | design_dock | strpred             | over 1h
